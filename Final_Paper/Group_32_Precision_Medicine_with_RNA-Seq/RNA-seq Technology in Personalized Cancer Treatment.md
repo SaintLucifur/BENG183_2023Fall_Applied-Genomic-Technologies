@@ -104,7 +104,6 @@ Transcriptome Complexity:
 Limited Sensitivity for Low-Abundance Transcripts:
 * Detection Limits: RNA-Seq might miss detection of very low-abundance transcripts, leading to underrepresentation of rare transcripts.
 
-
 ## Reference
 
 [1]: Wang, Z., Gerstein, M. & Snyder, M. RNA-Seq: a revolutionary tool for transcriptomics. Nat Rev Genet 10, 57–63 (2009). https://doi.org/10.1038/nrg2484
@@ -116,3 +115,7 @@ Limited Sensitivity for Low-Abundance Transcripts:
 [4]: Xi, X.; Li, T.; Huang, Y.; Sun, J.; Zhu, Y.; Yang, Y.; Lu, Z.J. RNA Biomarkers: Frontier of Precision Medicine for Cancer. Non-Coding RNA 2017, 3, 9. https://doi.org/10.3390/ncrna3010009
 
 [5] Orrapin, S.; Thongkumkoon, P.; Udomruk, S.; Moonmuang, S.; Sutthitthasakul, S.; Yongpitakwattana, P.; Pruksakorn, D.; Chaiyawat, P. Deciphering the Biology of Circulating Tumor Cells through Single-Cell RNA Sequencing: Implications for Precision Medicine in Cancer. Int. J. Mol. Sci. 2023, 24, 12337. https://doi.org/10.3390/ijms241512337
+
+## Have a wonderful winter break!
+
+<img align="bottom" src="christmas.png" alt="drawing" width="400"/>
